@@ -7,7 +7,7 @@ Given a positive integer, return a string containing that number as an ordinal.
 
 Examples: 
 * 1 => 1st
-* 22 => 2nd
+* 22 => 22nd
 * 333 => 333rd 
 * 4 => 4th
 
