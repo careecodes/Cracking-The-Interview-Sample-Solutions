@@ -6,7 +6,7 @@ Sample solutions for my problem set for the [WWC DFW Whiteboarding Workshop (Nov
 ## Prompts:
 * Given a string, reverse it in any programming language you know and print the output
 * Write pseudo code for solving Towers of Hanoi with 3 towers and 3 discs. 
-* Write a function that simulates rolling a die (1-6)
+* [Write a function that simulates rolling a die (1-6)](/roll_die)
 * Given a range of numbers 1 to N, find all the prime numbers.
 * Numbers to ordinals; given an integer N, return a string that is that number in the form "Nth". Ex: 1=>1st, 5=>5th, 22=>22nd, etc.
 * Find the missing numbers! Given an array of sequential numbers, find all the gaps in the sequence.
