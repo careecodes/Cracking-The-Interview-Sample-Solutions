@@ -15,7 +15,7 @@
 
 function toOrdinal(number) {
     const asString = String((+number).toFixed(0));
-    const tens = asString.slice(-2);
+    const tens = +asString.slice(-2);
 
     if(tens >= 10 && tens < 20)
     {
