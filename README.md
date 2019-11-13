@@ -13,7 +13,7 @@ Sample solutions for my problem set for the [WWC DFW Whiteboarding Workshop (Nov
 - Numbers to ordinals; given an integer N, return a string that is that number in the form "Nth". Ex: 1=>1st, 5=>5th, 22=>22nd, etc.
 - Find the missing numbers! Given an array of sequential numbers, find all the gaps in the sequence.
 - Bubble sort - Traverse through a simple sorting algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order
-- [Given a single input string, write a function that produces all possible anagrams of a string and outputs them as an array.](/all_anagrams)
+- [Given a single input string, write a function that produces all possible anagrams of a string and outputs them as an array.](/all_anagrams/solution.js)
 - Make me a randomized Bejeweled grid of 9x9 with 4 piece types where there are no "3 of a kind" in a row (diagonals don't count) and has at least one move available.
 - Check if year is a leap year.
 - Given a non-empty array of integers, return the k most frequent elements. Assume k is always valid, 1<=k<=number of unique elements
