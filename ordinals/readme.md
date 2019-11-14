@@ -1,9 +1,20 @@
 # Numbers to Ordinals
 
-## Challenge
+## Background
 An ordinal is an indicator of position in a list. Example, 1st, 2nd, 3rd, etc.
 
-Given a positive integer, return a string containing that number as an ordinal.
+In English, the final digit will determine which form the ordinal will take:
+
+* Ends with 1 = 'st'
+* Ends with 2 = 'nd'
+* Ends with 3 = 'rd'
+* Ends with another number = 'th'
+
+But, numbers that end in 11, 12, and 13 are a special case. These all use the 'th' ordinal form.
+
+## Challenge
+
+Given a positive integer, return a string representing the ordinal form of that number.
 
 Examples: 
 * 1 => 1st
@@ -11,7 +22,7 @@ Examples:
 * 333 => 333rd 
 * 4 => 4th
 
-Other things to consider:
+Other things to remember:
 
 * The numbers 11-13 are a special case.
 
